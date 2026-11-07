@@ -1,8 +1,8 @@
-const nome = "João Vitor";
+const nome = "Leyvan";
 let idade = 18;
 const brasileiro = true;
 let altura = 1.80;
-let genero = "Hétero";
+let curso = "Segurança da informação"
 
 console.log(nome);
 console.log(idade);
